@@ -1,0 +1,1 @@
+# Optimizing-Smart-Grid-Energy-Distribution-using-GA-and-Parallel-Computing
