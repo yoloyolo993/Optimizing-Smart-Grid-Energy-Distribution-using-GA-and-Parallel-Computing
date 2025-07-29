@@ -44,6 +44,6 @@ This project focuses on optimizing energy distribution in a smart grid using Gen
 - Nabin Sunar
 
 ##  Demo Video
-Watch our 5–8 minute video explaining the system and outcomes. [Add YouTube/Google Drive link here]
+Watch our 5–8 minute video explaining the system and outcomes. [https://youtu.be/1GJAz7XUaug]
 
 
